@@ -1,0 +1,58 @@
+body{
+ background-image: linear-gradient( 179deg,  rgba(0,0,0,1) 9.2%, rgba(127,16,16,1) 103.9% );
+	
+}
+h1{
+	 font-family: ;
+}
+.nav{
+	background-color:maroon;
+	height:70px;
+	
+}
+h2{
+	float:left;
+	margin-bottom:100px;
+	margin-left:30px;
+}
+.text{
+	background-color:tomato;
+	height:350px;
+	width:50%;
+	padding:20px 100px 20px 100px;
+	margin-left:270px;
+	text-align:center;
+	font-size:25px;
+	
+}
+form{
+	font-size:25px;
+	background-color:white;
+	width:45%;
+	margin-left:400px;
+}
+input{
+	padding-left:100px;
+	padding:10px;
+	margin:10px;
+	margin-left:20px;
+}
+b{
+	margin-left:20px;
+}
+label{
+	padding:10px;
+	margin-left:20px;
+}
+.mix{
+	padding-right:300px;
+	margin-left:20px;
+}
+.mix1{
+	padding-right:300px;
+	margin-left:40px;
+}
+.mix2{
+	padding-right:300px;
+	margin-left:8px;
+}
