@@ -2,7 +2,7 @@
 
 This project is a front-end event registration form created using HTML and CSS. It is designed to practice form elements and improve skills in building structured and user-friendly UI layouts.
 
-
+Live demo:https://sanskruti-devkar.github.io/Event-registration-form/
 
 # Features
 
